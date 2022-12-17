@@ -1,4 +1,4 @@
-# About Me
+# About me
 - 👋 Hi, I’m @Sleem-Net from London
 - 👀 I’m a Project Manager but I love programming.
 - 🌱 I’m currently learning Nextjs as a framework.
